@@ -1,0 +1,19 @@
+body {background-image:url(//live.staticflickr.com/1934/43957748545_5334ab6280_h.jpg)
+}
+
+h1, .main , #result { text-align: left; margin-left:  150px;}
+
+h1 { margin-top : 350px; color: #f3f1f6; font-family: monospace;}
+
+.main , #result { color: #f3f1f6}
+
+#check-btn , #textInput {
+    font-size: 20px;
+}
+
+#result { padding-top: 50px; font-size:35px}
+
+
+ #label1 {font-size:20px}
+
+ #check-btn {cursor: pointer;}
